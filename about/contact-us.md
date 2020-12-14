@@ -1,5 +1,5 @@
-Contat me!
+Contact me!
 
-Email:
+Email: email@email.
 
-Phone:
+Phone: 111-111-1111
