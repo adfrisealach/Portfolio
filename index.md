@@ -6,5 +6,5 @@ Here are the projects I'm currently working on:
 
 
 
-[Contact Me!](https://adfrisealach.github.io/Portfolio/about/contact-me.md)
+[Contact Me!](https://github.com/adfrisealach/Portfolio/blob/gh-pages/about/contact-me.md)
 
