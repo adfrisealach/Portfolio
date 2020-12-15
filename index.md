@@ -1,9 +1,9 @@
 # Welcome to my Portfolio!
 
-Here are the projects I currently have up:
+Here are the projects I'm currently working on:
 * Link One
 * Link Two
 
 
 
-[Contact me!](https://adfrisealach.github.io/Portfolio/about/contact-me.md/)
+[Contact me!](https://adfrisealach.github.io/Portfolio/about/contact-me.md)
