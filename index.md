@@ -6,7 +6,7 @@ Here are the projects I currently have up:
 
 
 
-[Contact me!](https://adfrisealach.github.io/Portfolio/about/contact-us.md)
+[Contact me!](/about/contact-us.md)
 
 
 
