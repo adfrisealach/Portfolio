@@ -1,6 +1,4 @@
-
-
-Welcome to my Portfolio!
+# Welcome to my Portfolio!
 
 Here are the projects I currently have up:
 * Link One
