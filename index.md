@@ -6,5 +6,5 @@ Here are the projects I'm currently working on:
 
 
 
-[Contact Me!](about/contact-me.md)
+[Contact Me!](/about/contact-me.md)
 
