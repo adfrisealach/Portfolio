@@ -1,3 +1,5 @@
 theme: jekyll-theme-modernist
 title: Welcome to the portfolio of Andrew F
 description: Lorem ipsum dolor sit amet.
+github:
+  is_project_page: false
